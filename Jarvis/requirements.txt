@@ -1,0 +1,12 @@
+#dependencias necesarias para correr el agente
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+requests
+streamlit
+langchain-community
+pypdf
+chromadb
+langchain-classic
+fonttools
